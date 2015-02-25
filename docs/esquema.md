@@ -12,7 +12,7 @@
 | GND     | 12 - VSS  |
 | GND     | 8 - VSS   |
 
-![Conexión DIP 28](/ima/dip28.png)
+![Conexión DIP 28](/img/dip28.png)
 
 
 ## Para DIP 40 (FAMILIA 18F4XXX)
@@ -27,4 +27,4 @@
 | GND     | 12 - VSS  |
 | GND     | 31 - VSS  |
 
-![Conexión DIP 40](/ima/dip28.png)
+![Conexión DIP 40](/img/dip28.png)
