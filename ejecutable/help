@@ -1,0 +1,9 @@
+ArduPIC v1.0
+
+Options:
+
+  -h, --help	Muestra este mensaje.
+  -l, --list	Muestra una lista de los dispositivos soportados.
+  -e, --erase	Borra la memoria flash del PIC.
+  -P, --port	(optional) Selecciona el puerto de comunicación.
+  -i		Selecciona el archivo HEX.
